@@ -2,10 +2,10 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
 	<ConfigVersions>
 		<Metadata name="CommonModule.ГСК5707_ОбщегоНазначения" id="dab08977-ba0e-40d8-b31b-a27fea59e32a" configVersion="384927acf5b0b2f879477f85268a3eebf38591cd"/>
-		<Metadata name="CommonModule.ГСК5707_ОбщегоНазначения.Module" id="dab08977-ba0e-40d8-b31b-a27fea59e32a.0" configVersion="d94d3a3c3f0fa6e9e990f5c8e7b1798b3def111b"/>
+		<Metadata name="CommonModule.ГСК5707_ОбщегоНазначения.Module" id="dab08977-ba0e-40d8-b31b-a27fea59e32a.0" configVersion="efd57a4eca7e873ef51a259118c02230b915dd1b"/>
 		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый" id="9b5c0d23-4e6f-4a8b-9c2d-3f4a5b6c7d8e" configVersion="f40f7918a9f73e9defc6c65914d3b5f4d9a1f2ff"/>
-		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый.Module" id="9b5c0d23-4e6f-4a8b-9c2d-3f4a5b6c7d8e.0" configVersion="14e5e563d2df471ea61525fc26929901750027f6"/>
-		<Metadata name="Configuration.ГСК_АктСверкиНомер" id="98d20965-136b-4a99-a4bf-08b65076ed98" configVersion="471b43523b2f281f9815d61036c118f64629d21b"/>
+		<Metadata name="CommonModule.УправлениеПечатьюПереопределяемый.Module" id="9b5c0d23-4e6f-4a8b-9c2d-3f4a5b6c7d8e.0" configVersion="826ecf5f42b7ea6a2dcbbf78e97a726fa61b7925"/>
+		<Metadata name="Configuration.ГСК_АктСверкиНомер" id="98d20965-136b-4a99-a4bf-08b65076ed98" configVersion="be5d89667637cfdfaf4b4df78dab9cfe3e8d4048"/>
 		<Metadata name="Language.Русский" id="d09a11dd-efca-4409-a2e7-d1e5dedfeda9" configVersion="e679fe963fd21f60c698274d04783c8eaea48d96"/>
 		<Metadata name="Role.ГСК5707_ОсновнаяРоль" id="5695a2fc-1c59-43c2-868d-89b9ca0df6c8" configVersion="9b9d15598db411ecbebd459fcfeb36a8f917d8be"/>
 	</ConfigVersions>
